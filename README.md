@@ -1,2 +1,2 @@
 # helo_world
-creating the new bramch called feature.
+creating the new branch called feature.
